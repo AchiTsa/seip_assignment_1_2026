@@ -6,9 +6,11 @@ https://github.com/AchiTsa/seip_assignment_1_2026.git
 
 # Cluster State Proof: 
 kubectl get all -n default:
+
 ![kubectl get all -n default](assets/get%20all.png) 
 
 kubectl get configmap,secret:
+
 ![kubectl get all -n default](assets/get%20config.png)
  
 # Application Verification Proof:
